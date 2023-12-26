@@ -1,0 +1,34 @@
+tìm hiểu về Rush
+
+
+LƯU Ý:
+phải có file
+
+
+tim hiểu về 
+Biến, hằng số, kiểu dữ liễu
+
+git là gì?
+
+
+pwd in ra duong dan đến file thực thi
+
+lap trình hướng sự kiện và lập trình hướng đối tượng
+
+clean code nên đọc
+math ở đâu ra
+
+tìm hiểu  về  eurio function
+
+tìm hiểu về event loop
+
+type in css reac
+
+ép kiểu dữ liệu sẽ được ưu tiên hơn
+toán tử ba ngôi
+
+cú pháp switch - case - break break không được quên
+
+
+
+callback funtion
